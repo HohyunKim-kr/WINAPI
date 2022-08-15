@@ -24,6 +24,8 @@ LRESULT CALLBACK    WndProc(HWND, UINT, WPARAM, LPARAM);
 
 
 
+
+
 /*
 HINSTANCE (Instance handle) ★
 프로세서에 대한 주소값을 나타냅니다.
